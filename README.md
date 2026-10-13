@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hi, I'm Sonic 👋</h2>
+<h2>Hi, I'm Sonic</h2>
 
 <p>运维工程师 · 喜欢把重复的事交给脚本和工具</p>
 
@@ -11,22 +11,22 @@
 </p>
 
 <p>
-  <a href="https://tools.sonic.nyc.mn/">🧰 上校工具箱</a> &nbsp;·&nbsp;
-  <a href="https://chromewebstore.google.com/detail/automark/fidibpojnjiakkgfhbpfekibdgdgafce">🔖 AutoMark</a>
+  <a href="https://tools.sonic.nyc.mn/">上校工具箱</a> &nbsp;·&nbsp;
+  <a href="https://chromewebstore.google.com/detail/automark/fidibpojnjiakkgfhbpfekibdgdgafce">AutoMark</a>
 </p>
 
 </div>
 
 <br/>
 
-### 🙋 About
+### About
 
-- 🛠️ 日常与服务器、容器和集群打交道：部署、监控、排障、自动化
-- 🐳 用 Docker / Kubernetes 管理服务，用 Cloudflare 托管站点
-- 🧑‍💻 业余用 Go + Vue 写自托管小工具，也做 AI 相关的浏览器扩展和 Agent Skill
-- 📝 用 Obsidian 记笔记，把知识整理成静态网站
+- 日常与服务器、容器和集群打交道：部署、监控、排障、自动化
+- 用 Docker / Kubernetes 管理服务，用 Cloudflare 托管站点
+- 业余用 Go + Vue 写自托管小工具，也做 AI 相关的浏览器扩展和 Agent Skill
+- 用 Obsidian 记笔记，把知识整理成静态网站
 
-### 🚀 Projects
+### Projects
 
 | 项目 | 说明 | 技术 |
 |:--|:--|:--|
@@ -37,13 +37,13 @@
 | [**kaifan**](https://github.com/narcotics0507/kaifan) | 面向农家乐和小菜馆的 H5 扫码点餐系统 | Java |
 | [**Obsidian2VitePress**](https://github.com/narcotics0507/Obsidian2VitePress) | 把 Obsidian 笔记生成并发布为 VitePress 网站 | JavaScript |
 
-### 🧰 Stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,vue,java,python,ts,docker,kubernetes,cloudflare" />
 </p>
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=narcotics0507&show_icons=true&theme=transparent&hide_border=true&count_private=true&locale=cn" />

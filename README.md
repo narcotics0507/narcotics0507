@@ -2,8 +2,6 @@
 
 <h2>Hi, I'm Sonic</h2>
 
-<p>运维工程师 · 喜欢把重复的事交给脚本和工具</p>
-
 <p>
   <img src="https://img.shields.io/badge/Ops-DevOps-2C5364?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud%20Native-Docker%20%7C%20K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
